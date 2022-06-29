@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+.aside div{
+    display: flex;
+    justify-content: right;
+    margin-top: 25px;
+}
+.aside p{
+    display: flex;
+    justify-content: left;
+    padding-right: 15%;
+    padding-left: 15%;
+}
+.aside img{
+    width: 500px;
+}
